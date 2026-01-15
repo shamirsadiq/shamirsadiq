@@ -1,16 +1,19 @@
-## Hi there 👋
+# Muhammad Shamir Sadiq
 
-<!--
-**shamirsadiq/shamirsadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Applicant in Data Science
 
-Here are some ideas to get you started:
+## Background
+Bachelor of Agricultural and Biosystem Engineering (CGPA 3.67/4.00)  
+Research and industry experience in applied machine learning and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Time-Series Modelling
+
+## Tools
+Python | SQL | PyTorch | TensorFlow | Scikit-learn
+
+## Status
+This repository will be used to document my academic and technical portfolio.
